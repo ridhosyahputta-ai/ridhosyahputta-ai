@@ -1,7 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33850622/README.md)
-## Hi there 👋
-
-<!--<div align="center">
+<div align="center">
 
 # Hi, I'm Ridho! 👋
 
@@ -84,17 +81,3 @@ I enjoy building web applications, desktop systems, and database-driven solution
 <div align="center">
   <sub>Building · Learning · Improving</sub>
 </div>
-
-**ridhosyahputta-ai/ridhosyahputta-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
