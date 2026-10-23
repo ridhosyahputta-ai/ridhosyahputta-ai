@@ -75,6 +75,12 @@ I enjoy building web applications, desktop systems, and database-driven solution
 
 ## 🤝 Let's Connect
 
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/ridhosyahputta-ai/ridhosyahputta-ai/output/github-snake.svg)
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/ridhosyahputta-ai)
 
 <!-- Add your verified LinkedIn and portfolio URLs here when ready. -->
