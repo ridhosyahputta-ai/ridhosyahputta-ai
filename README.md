@@ -1,4 +1,7 @@
+
 <div align="center">
+
+<img src="./github-banner.png.png" alt="Ridho Syach Putra - GitHub Banner" width="100%" />
 
 # Hi, I'm Ridho! 👋
 
@@ -7,6 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Web+%26+Desktop+Applications;Learning%2C+Building+%26+Improving;Full-Stack+Developer+in+Progress" alt="Typing introduction" />
 
 </div>
+
 
 ---
 
