@@ -54,16 +54,15 @@ I enjoy building web applications, desktop systems, and database-driven solution
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D1117?style=for-the-badge&logo=visualstudio&logoColor=38BDF8)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=androidstudio&logoColor=38BDF8)
 
+
 ## 📂 Featured Projects
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| [Sistem Kependudukan Desa](https://github.com/ridhosyahputta-ai/sistem-kependudukan-desa) | C# WinForms application for managing population records, letters, and reports. | Portfolio Candidate |
-| [Seblak Bunga](https://github.com/ridhosyahputta-ai?tab=repositories) | PHP-based application for managing a food business. | Portfolio Candidate |
 | [Bibliotech](https://github.com/ridhosyahputta-ai/bibliotech) | Library management system built with native PHP and MySQL. | In Development |
 | [Laravel POS System](https://github.com/ridhosyahputta-ai/laravel-pos-system) | Point-of-sale system built with Laravel and MariaDB. | In Development |
 
-> Project descriptions and statuses reflect ongoing learning and development. Some projects may not have a live demo yet.
+> Both projects are currently in development. Live demos may not be available yet.
 
 ## 📊 GitHub Activity
 
