@@ -24,9 +24,11 @@ Currently exploring Laravel, UI/UX, and software architecture.
 ## Tech Stack
 
 **Languages**
+
 PHP · C# · JavaScript · Java · Kotlin · C++ · HTML · CSS
 
 **Frameworks & Tools**
+
 Laravel · Bootstrap · WinForms · MySQL · MariaDB · Git · GitHub
 
 ---
@@ -40,14 +42,10 @@ Laravel · Bootstrap · WinForms · MySQL · MariaDB · Git · GitHub
 
 ---
 
-## GitHub Activity
+<!-- Contribution Snake -->
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ridhosyahputta-ai&show_icons=true&hide_border=true&theme=transparent" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhosyahputta-ai&layout=compact&hide_border=true&theme=transparent" height="160" />
-
+<img src="https://raw.githubusercontent.com/ridhosyahputta-ai/ridhosyahputta-ai/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
