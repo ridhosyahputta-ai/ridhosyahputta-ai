@@ -42,14 +42,6 @@ Laravel · Bootstrap · WinForms · MySQL · MariaDB · Git · GitHub
 
 ---
 
-<!-- Contribution Snake -->
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ridhosyahputta-ai/ridhosyahputta-ai/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
 ## Let's Connect
 
 <!-- Contact links will be added later -->
