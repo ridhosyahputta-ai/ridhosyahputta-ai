@@ -42,12 +42,20 @@ Laravel · Bootstrap · WinForms · MySQL · MariaDB · Git · GitHub
 
 ---
 
+
 ## Let's Connect
 
-<!-- Contact links will be added later -->
+<p align="left">
+  <a href="https://github.com/ridhosyahputta-ai">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<!-- LinkedIn, Email, and Instagram will be added later -->
 
 ---
 
 <div align="center">
 <sub>Building · Learning · Improving</sub>
 </div>
+
